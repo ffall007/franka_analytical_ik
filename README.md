@@ -2,16 +2,17 @@
 
 You can support this project by referencing our paper:
 ```
-@InProceedings{He2021,
+@InProceedings{HeLiu2021,
   author    = {Yanhao He and Steven Liu},
   booktitle = {2021 9th International Conference on Control, Mechatronics and Automation (ICCMA2021)},
   title     = {Analytical Inverse Kinematics for {F}ranka {E}mika {P}anda -- a Geometrical Solver for 7-{DOF} Manipulators with Unconventional Design},
   year      = {2021},
   month     = nov,
   publisher = {{IEEE}},
+  doi       = {10.1109/ICCMA54375.2021.9646185},
 }
 ```
-The paper is accepted but not yet online at the time of writing. A preprint version is provided in this repository.
+A preprint version is provided in this repository. Note that there is a mistake in the published paper on ieeexplore: ABB GoFa is actually not 7-axis. This has been corrected in the attached preprint.
 
 ## Introduction
 
